@@ -1,0 +1,25 @@
+{
+  "name": "tw5-plugins",
+  "version": "1.0.0",
+  "description": "Plugins for TiddlyWiki5",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinegar/tw5-plugins.git"
+  },
+  "keywords": [
+    "TiddlyWiki5"
+  ],
+  "author": "Peter Perenyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinegar/tw5-plugins/issues"
+  },
+  "homepage": "https://github.com/sinegar/tw5-plugins",
+  "devDependencies": {
+    "tiddlywiki": "^5.1.7"
+  }
+}

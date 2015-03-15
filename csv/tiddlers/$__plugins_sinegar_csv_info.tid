@@ -1,0 +1,12 @@
+created: 20150315070713001
+modified: 20150315071853062
+tags: 
+title: $:/plugins/sinegar/csv/info
+type: text/vnd.tiddlywiki
+
+ * [[$:/plugins/sinegar/csv]]
+ * [[$:/plugins/sinegar/csv/deserializer.js]]
+ 
+ 
+ $tw.utils.repackPlugin("$:/plugins/sinegar/csv",["$:/plugins/sinegar/csv/deserializer.js"])
+ 
