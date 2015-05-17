@@ -1,0 +1,17 @@
+created: 20150503081308874
+modified: 20150505133611705
+tags: 
+title: $:/plugins/sinegar/bookmark/info
+type: text/vnd.tiddlywiki
+
+ * [[$:/plugins/sinegar/bookmark]]
+ * [[$:/plugins/sinegar/bookmark/address]]
+ * [[$:/plugins/sinegar/bookmark/tags]]
+ * [[$:/plugins/sinegar/bookmark/unfluff-browser.js]]
+ * [[$:/plugins/sinegar/bookmark/bookmark.js]]
+ * [[$:/plugins/sinegar/bookmark/bookmarklet]]
+ * [[Re-package plugin | javascript:var l = new $tw.utils.Logger('http://'); l.alert($tw.utils.repackPlugin("$:/plugins/sinegar/bookmark",[ "$:/plugins/sinegar/bookmark/address", "$:/plugins/sinegar/bookmark/tags", "$:/plugins/sinegar/bookmark/bookmark.js", "$:/plugins/sinegar/bookmark/unfluff-browser.js","$:/plugins/sinegar/bookmark/bookmarklet"],[]) + '<br><br>Please reload the page.');]]
+ 
+Todo 
+
+ * Reduce the sie of `unfluff-browser.js` (435Kb at the moment)
